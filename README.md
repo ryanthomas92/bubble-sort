@@ -1,3 +1,4 @@
+<img src="https://cloud.githubusercontent.com/assets/6520345/22489560/f791fe8a-e7cc-11e6-9a84-40c8aa1311da.png" width="60">
 # Bubble Sort
 
 
@@ -41,7 +42,6 @@ Here's the basic idea of the Bubble Sort algorithm:
 <a title="By Swfung8 (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ABubble-sort-example-300px.gif"><img width="400" alt="Bubble-sort-example-300px" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif"/></a><br>
 <figcaption>Image: By Swfung8 (Own work) [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0) or [GFDL](http://www.gnu.org/copyleft/fdl.html), via Wikimedia Commons</figcaption>
 </figure>
-
 
 
 ## Example: Sort this list using Bubble Sort: `[5, 4, 2, 3, 1, 6]`
