@@ -13,7 +13,7 @@ Bubble sort is one of the first sorting algorithms you should master. While it i
 *After this workshop, developers will be able to:*
 
 - describe bubble sort algorithm and identify its advantages and disadvantages.
-- write a pseudocode version of bubble sort and a javascript version of bubble sort.
+- write a pseudocode version of bubble sort and use TDD to write a Ruby version of bubble sort.
 - determine the runtime (in big-`O()` notation) for bubble sort.
 
 ### Where should we be now?
